@@ -1,4 +1,4 @@
-# Abandoned Carts Recovery for Open Cart v 1.2.6
+# Abandoned Carts Recovery for Open Cart v 1.2.7
 For Open Cart 2.3.0.2
 
 For a list of improvements & fixes, see the [changelog](changelog.md).
